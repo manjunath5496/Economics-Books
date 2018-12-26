@@ -55,7 +55,7 @@
                 David Landes</br>
                <a href="https://github.com/manjunath5496/Economics-Books/blob/master/p69.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
                 
-14.The Intelligent Investor</br>
+ 14. The Intelligent Investor</br>
                 Benjamin Graham</br>
                <a href="https://github.com/manjunath5496/Economics-Books/blob/master/pdf825.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
                 
