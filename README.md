@@ -95,3 +95,15 @@
                 Jeffrey Sachs</br>
                <a href="https://github.com/manjunath5496/Economics-Books/blob/master/p92.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
                            
+23.  Human Capital, Population Growth and Economic Development</br>
+               Mark R. Rosenzweig</br>
+               <a href="https://github.com/manjunath5496/Economics-Books/blob/master/pdf847.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                
+24.  Economic Facts and Fallacies</br>
+                Thomas Sowell</br>
+               <a href="https://github.com/manjunath5496/Economics-Books/blob/master/pdf1007.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                
+25.  Freefall: America, Free Markets, and the Sinking of the World Economy</br>
+                Joseph Stiglitz</br>
+               <a href="https://github.com/manjunath5496/Economics-Books/blob/master/pdf1015.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                
