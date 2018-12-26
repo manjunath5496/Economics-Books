@@ -109,4 +109,25 @@
         
 26.  The General Theory of Employment, Interest, and Money </br>
                John Maynard Keynes </br>
-               <a href="https://github.com/manjunath5496/Economics-Books/blob/master/pdf10135.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>      
+               <a href="https://github.com/manjunath5496/Economics-Books/blob/master/pdf10135.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>  
+               
+27.  The Worldly Philosophers </br>
+                Robert Heilbroner </br>
+               <a href="https://github.com/manjunath5496/Economics-Books/blob/master/sh155.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                
+28. Predictably Irrational</br>
+               Dan Ariely</br>
+               <a href="https://github.com/manjunath5496/Economics-Books/blob/master/sh156.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                
+29.  The Affluent Society</br>
+                John Kenneth Galbraith</br>
+               <a href="https://github.com/manjunath5496/Economics-Books/blob/master/sh157.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                
+            
+30.  The Armchair Economist</br>
+               Steven E. Landsburg</br>
+               <a href="https://github.com/manjunath5496/Economics-Books/blob/master/sh158.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                               
+               
+               
+               
