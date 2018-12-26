@@ -51,4 +51,47 @@
                 Michael Lewis</br>
                <a href="https://github.com/manjunath5496/Economics-Books/blob/master/sh153.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
                 
+ 13.  The Wealth and Poverty of Nations</br>
+                David Landes</br>
+               <a href="https://github.com/manjunath5496/Economics-Books/blob/master/p69.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                
+14.The Intelligent Investor</br>
+                Benjamin Graham</br>
+               <a href="https://github.com/manjunath5496/Economics-Books/blob/master/pdf825.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                
+15.  An Inquiry into the Nature and Causes of the Wealth of Nations</br>
+                Adam Smith</br>
+               <a href="https://github.com/manjunath5496/Economics-Books/blob/master/pdf049.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                
             
+16.  Wealth Creation: A Systems Mindset for Building and Investing in Businesses for the Long Term</br>
+               Bartley J. Madden</br>
+               <a href="https://github.com/manjunath5496/Economics-Books/blob/master/p272.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                
+            
+17.  International Political Economy: Perspectives on Global Power and Wealth</br>
+               Jeffry A. Frieden</br>
+               <a href="https://github.com/manjunath5496/Economics-Books/blob/master/p200.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                
+18.  Lords of Finance: The Bankers Who Broke the World</br>
+                 Liaquat Ahamed</br>
+               <a href="https://github.com/manjunath5496/Economics-Books/blob/master/p88.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                
+            
+19.  Free to Choose</br>
+                Rose Friedman</br>
+               <a href="https://github.com/manjunath5496/Economics-Books/blob/master/p89.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                
+20.  Fooled by Randomness: The Hidden Role of Chance in Life and in the Markets</br>
+                Nassim Nicholas Taleb</br>
+               <a href="https://github.com/manjunath5496/Economics-Books/blob/master/p90.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                
+            
+21. New Ideas From Dead Economists</br>
+                Todd G. Buchholz</br>
+               <a href="https://github.com/manjunath5496/Economics-Books/blob/master/p91.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                
+22.  The End of Poverty: How We Can Make It Happen In Our Lifetime</br>
+                Jeffrey Sachs</br>
+               <a href="https://github.com/manjunath5496/Economics-Books/blob/master/p92.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                           
