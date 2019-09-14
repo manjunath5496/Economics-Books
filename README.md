@@ -291,9 +291,21 @@
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Economics-Books/blob/master/ecp(42).pdf" style="text-decoration:none;">Asymptotic Theory for Econometricians</a></b></li>
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Economics-Books/blob/master/ecp(74).pdf" style="text-decoration:none;">Economics: A textbook</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Economics-Books/blob/master/ecp(75).pdf" style="text-decoration:none;">Getting (More Of) What You Want: How the Secrets of Economics and Psychology Can Help You Negotiate Anything, in Business and in Life</a></b></li>
 
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Economics-Books/blob/master/ecp(76).pdf" style="text-decoration:none;">Global Economic History: A Very Short Introduction </a></b></li>
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Economics-Books/blob/master/ecp(77).pdf" style="text-decoration:none;">50 economics ideas you really need to know</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Economics-Books/blob/master/ecp(78).pdf" style="text-decoration:none;">A Comprehensive Dictionary of Economics </a></b></li>
+
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Economics-Books/blob/master/ecp(79).pdf" style="text-decoration:none;">Monetary Economics: Policy and its Theoretical Basis </a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Economics-Books/blob/master/ecp(80).pdf" style="text-decoration:none;">Beyond Macroeconomic Stability</a></b></li>
 
 
 
