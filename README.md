@@ -276,5 +276,26 @@
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Economics-Books/blob/master/ecp(73).pdf" style="text-decoration:none;">Introductory Econometrics: A Modern. Approach</a></b></li>
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Economics-Books/blob/master/ecp(8).pdf" style="text-decoration:none;">Economics for Investment Decision Makers </a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Economics-Books/blob/master/ecp(11).pdf" style="text-decoration:none;">Principles of Agricultural Economics</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Economics-Books/blob/master/ecp(17).pdf" style="text-decoration:none;">Economics: A Contemporary Introduction</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Economics-Books/blob/master/ecp(29).pdf" style="text-decoration:none;">Applied Economics</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Economics-Books/blob/master/ecp(30).pdf" style="text-decoration:none;">Mathematical Methods for Economic Analysis</a></b></li>
+
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Economics-Books/blob/master/ecp(41).pdf" style="text-decoration:none;">The Secrets of Economic Indicators: Hidden Clues to Future Economic Trends and Investment Opportunities </a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Economics-Books/blob/master/ecp(42).pdf" style="text-decoration:none;">Asymptotic Theory for Econometricians</a></b></li>
+
+
+
+
+
+
+
 
 </ul>
