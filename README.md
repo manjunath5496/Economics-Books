@@ -131,183 +131,150 @@
  </br>
  <hr>
                
-  <ul>
+ 
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Economics-Books/blob/master/ecp(1).pdf" style="text-decoration:none;">The Basics of Financial Econometrics</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Medical-Books/blob/master/elm(1).pdf" style="text-decoration:none;">The Basics of Financial Econometrics</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Economics-Books/blob/master/ecp(2).pdf" style="text-decoration:none;">An Outline of the History of Economic Thought </a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Medical-Books/blob/master/elm(2).pdf" style="text-decoration:none;">An Outline of the History of Economic Thought </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Economics-Books/blob/master/ecp(3).pdf" style="text-decoration:none;">An Economic History of Europe</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Medical-Books/blob/master/elm(3).pdf" style="text-decoration:none;">An Economic History of Europe</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Economics-Books/blob/master/ecp(4).pdf" style="text-decoration:none;">A Random Walk Down Wall Street: Including A Life-Cycle Guide To Personal Investing</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Medical-Books/blob/master/elm(4).pdf" style="text-decoration:none;">A Random Walk Down Wall Street: Including A Life-Cycle Guide To Personal Investing</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Economics-Books/blob/master/ecp(5).pdf" style="text-decoration:none;">Are You Dumb Enough to Be Rich? The Amazingly Simple Way to Make Millions in Real Estate </a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Medical-Books/blob/master/elm(5).pdf" style="text-decoration:none;">Are You Dumb Enough to Be Rich? The Amazingly Simple Way to Make Millions in Real Estate </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Economics-Books/blob/master/ecp(6).pdf" style="text-decoration:none;">Basic Economics: A Citizen's guide to the Economy</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Medical-Books/blob/master/elm(6).pdf" style="text-decoration:none;">Basic Economics: A Citizen's guide to the Economy</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Economics-Books/blob/master/ecp(7).pdf" style="text-decoration:none;">Capital in the Twenty-First Century </a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Medical-Books/blob/master/elm(7).pdf" style="text-decoration:none;">Capital in the Twenty-First Century </a></b></li>
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Economics-Books/blob/master/ecp(9).pdf" style="text-decoration:none;"> Predictably Irrational: The Hidden Forces That Shape Our Decisions</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Medical-Books/blob/master/elm(9).pdf" style="text-decoration:none;"> Predictably Irrational: The Hidden Forces That Shape Our Decisions</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Economics-Books/blob/master/ecp(10).pdf" style="text-decoration:none;">Das Kapital, Volume I</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Medical-Books/blob/master/elm(10).pdf" style="text-decoration:none;">Das Kapital, Volume I</a></b></li>
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Economics-Books/blob/master/ecp(12).pdf" style="text-decoration:none;">Econometrics For Dummies</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Medical-Books/blob/master/elm(12).pdf" style="text-decoration:none;">Econometrics For Dummies</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Economics-Books/blob/master/ecp(13).pdf" style="text-decoration:none;">Economics for Everyone </a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Medical-Books/blob/master/elm(13).pdf" style="text-decoration:none;">Economics for Everyone </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Economics-Books/blob/master/ecp(14).pdf" style="text-decoration:none;">Economics in One Lesson </a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Medical-Books/blob/master/elm(14).pdf" style="text-decoration:none;">Economics in One Lesson </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Economics-Books/blob/master/ecp(15).pdf" style="text-decoration:none;">CliffsAP: Economics Micro and Macro   </a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Medical-Books/blob/master/elm(15).pdf" style="text-decoration:none;">CliffsAP: Economics Micro and Macro   </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Economics-Books/blob/master/ecp(16).pdf" style="text-decoration:none;">Engineering Economy  </a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Medical-Books/blob/master/elm(16).pdf" style="text-decoration:none;">Engineering Economy  </a></b></li>
 
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Economics-Books/blob/master/ecp(18).pdf" style="text-decoration:none;">Financial Economics </a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Medical-Books/blob/master/elm(18).pdf" style="text-decoration:none;">Financial Economics </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Economics-Books/blob/master/ecp(19).pdf" style="text-decoration:none;">Flash Boys: A Wall Street Revolt </a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Medical-Books/blob/master/elm(19).pdf" style="text-decoration:none;">Flash Boys: A Wall Street Revolt </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Economics-Books/blob/master/ecp(20).pdf" style="text-decoration:none;">Fooled by Randomness: The Hidden Role of Chance in Life and in the Markets</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Medical-Books/blob/master/elm(20).pdf" style="text-decoration:none;">Fooled by Randomness: The Hidden Role of Chance in Life and in the Markets</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Economics-Books/blob/master/ecp(21).pdf" style="text-decoration:none;">Foreign Exchange and Money Markets</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Medical-Books/blob/master/elm(21).pdf" style="text-decoration:none;">Foreign Exchange and Money Markets</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Economics-Books/blob/master/ecp(22).pdf" style="text-decoration:none;">Freakonomics: A Rogue Economist Explores the Hidden Side of Everything</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Medical-Books/blob/master/elm(22).pdf" style="text-decoration:none;">Freakonomics: A Rogue Economist Explores the Hidden Side of Everything</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Economics-Books/blob/master/ecp(23).pdf" style="text-decoration:none;">Capitalism and Freedom </a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Medical-Books/blob/master/elm(23).pdf" style="text-decoration:none;">Capitalism and Freedom </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Economics-Books/blob/master/ecp(24).pdf" style="text-decoration:none;">The Great Transformation: The Political and Economic Origins of Our Time </a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Medical-Books/blob/master/elm(24).pdf" style="text-decoration:none;">The Great Transformation: The Political and Economic Origins of Our Time </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Economics-Books/blob/master/ecp(25).pdf" style="text-decoration:none;">Greening the Economy with Agriculture </a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Medical-Books/blob/master/elm(25).pdf" style="text-decoration:none;">Greening the Economy with Agriculture </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Economics-Books/blob/master/ecp(26).pdf" style="text-decoration:none;">The Myth of Free Trade and the Secret History of Capitalism</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Medical-Books/blob/master/elm(26).pdf" style="text-decoration:none;">The Myth of Free Trade and the Secret History of Capitalism</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Economics-Books/blob/master/ecp(27).pdf" style="text-decoration:none;">Handbook of the History of Economic Thought</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Medical-Books/blob/master/elm(27).pdf" style="text-decoration:none;">Handbook of the History of Economic Thought</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Economics-Books/blob/master/ecp(28).pdf" style="text-decoration:none;">History of Economic Analysis</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Medical-Books/blob/master/elm(28).pdf" style="text-decoration:none;">History of Economic Analysis</a></b></li>
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Economics-Books/blob/master/ecp(31).pdf" style="text-decoration:none;">Indian Economy </a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Medical-Books/blob/master/elm(31).pdf" style="text-decoration:none;">Indian Economy </a></b></li>
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Economics-Books/blob/master/ecp(32).pdf" style="text-decoration:none;"> International Monetary Economics</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Medical-Books/blob/master/elm(32).pdf" style="text-decoration:none;"> International Monetary Economics</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Economics-Books/blob/master/ecp(33).pdf" style="text-decoration:none;">International Political Economy</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Medical-Books/blob/master/elm(33).pdf" style="text-decoration:none;">International Political Economy</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Economics-Books/blob/master/ecp(34).pdf" style="text-decoration:none;">The Affluent Society</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Medical-Books/blob/master/elm(34).pdf" style="text-decoration:none;">The Affluent Society</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Economics-Books/blob/master/ecp(35).pdf" style="text-decoration:none;">The Return of Depression Economics and the Crisis of 2008</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Medical-Books/blob/master/elm(35).pdf" style="text-decoration:none;">The Return of Depression Economics and the Crisis of 2008</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Economics-Books/blob/master/ecp(36).pdf" style="text-decoration:none;">The Wealth and Poverty of Nations</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Medical-Books/blob/master/elm(36).pdf" style="text-decoration:none;">The Wealth and Poverty of Nations</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Economics-Books/blob/master/ecp(37).pdf" style="text-decoration:none;">Economic Science for Rural Development</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Medical-Books/blob/master/elm(37).pdf" style="text-decoration:none;">Economic Science for Rural Development</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Economics-Books/blob/master/ecp(38).pdf" style="text-decoration:none;">  Millionaire Traders: How Everyday People Are Beating Wall Street at Its Own Game </a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Medical-Books/blob/master/elm(38).pdf" style="text-decoration:none;">  Millionaire Traders: How Everyday People Are Beating Wall Street at Its Own Game </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Economics-Books/blob/master/ecp(39).pdf" style="text-decoration:none;">Managerial Economics  </a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Medical-Books/blob/master/elm(39).pdf" style="text-decoration:none;">Managerial Economics  </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Economics-Books/blob/master/ecp(40).pdf" style="text-decoration:none;">Manifesto of the Communist Party </a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Medical-Books/blob/master/elm(40).pdf" style="text-decoration:none;">Manifesto of the Communist Party </a></b></li>
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Economics-Books/blob/master/ecp(43).pdf" style="text-decoration:none;">Free to Choose: A Personal Statement</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Medical-Books/blob/master/elm(43).pdf" style="text-decoration:none;">Free to Choose: A Personal Statement</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Economics-Books/blob/master/ecp(44).pdf" style="text-decoration:none;">naked economics </a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Medical-Books/blob/master/elm(44).pdf" style="text-decoration:none;">naked economics </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Economics-Books/blob/master/ecp(45).pdf" style="text-decoration:none;">The Ascent of Money</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Medical-Books/blob/master/elm(45).pdf" style="text-decoration:none;">The Ascent of Money</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Economics-Books/blob/master/ecp(46).pdf" style="text-decoration:none;">Nickel — and — Dimed  </a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Medical-Books/blob/master/elm(46).pdf" style="text-decoration:none;">Nickel — and — Dimed  </a></b></li>
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Economics-Books/blob/master/ecp(47).pdf" style="text-decoration:none;">Palgrave Handbook of Econometrics</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Medical-Books/blob/master/elm(47).pdf" style="text-decoration:none;">Palgrave Handbook of Econometrics</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Economics-Books/blob/master/ecp(48).pdf" style="text-decoration:none;">Principles of Political Economy with Some of Their Applications to Social Philosophy </a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Medical-Books/blob/master/elm(48).pdf" style="text-decoration:none;">Principles of Political Economy with Some of Their Applications to Social Philosophy </a></b></li>
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Economics-Books/blob/master/ecp(49).pdf" style="text-decoration:none;">Poor Economics: A Radical Rethinking of the Way to Fight Global Poverty</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Medical-Books/blob/master/elm(49).pdf" style="text-decoration:none;">Poor Economics: A Radical Rethinking of the Way to Fight Global Poverty</a></b></li>
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Economics-Books/blob/master/ecp(50).pdf" style="text-decoration:none;">Nudge: Improving Decisions About Health, Wealth, and Happiness</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Medical-Books/blob/master/elm(50).pdf" style="text-decoration:none;">Nudge: Improving Decisions About Health, Wealth, and Happiness</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Economics-Books/blob/master/ecp(51).pdf" style="text-decoration:none;">The Road to Serfdom with The Intellectuals and Socialism</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Medical-Books/blob/master/elm(51).pdf" style="text-decoration:none;">The Road to Serfdom with The Intellectuals and Socialism</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Economics-Books/blob/master/ecp(52).pdf" style="text-decoration:none;">The Industrial Vagina: The political economy of the global sex trade</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Medical-Books/blob/master/elm(52).pdf" style="text-decoration:none;">The Industrial Vagina: The political economy of the global sex trade</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Economics-Books/blob/master/ecp(53).pdf" style="text-decoration:none;">Small Is Beautiful: A Study of Economics as if People Mattered </a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Medical-Books/blob/master/elm(53).pdf" style="text-decoration:none;">Small Is Beautiful: A Study of Economics as if People Mattered </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Economics-Books/blob/master/ecp(54).pdf" style="text-decoration:none;">An Inquiry into the Nature and Causes of the Wealth of Nations </a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Medical-Books/blob/master/elm(54).pdf" style="text-decoration:none;">An Inquiry into the Nature and Causes of the Wealth of Nations </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Economics-Books/blob/master/ecp(55).pdf" style="text-decoration:none;">Economic Facts and Fallacies</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Medical-Books/blob/master/elm(55).pdf" style="text-decoration:none;">Economic Facts and Fallacies</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Economics-Books/blob/master/ecp(56).pdf" style="text-decoration:none;">SuperFreakonomics </a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Medical-Books/blob/master/elm(56).pdf" style="text-decoration:none;">SuperFreakonomics </a></b></li>
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Economics-Books/blob/master/ecp(57).pdf" style="text-decoration:none;">Antifragile: Things That Gain From Disorder </a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Medical-Books/blob/master/elm(57).pdf" style="text-decoration:none;">Antifragile: Things That Gain From Disorder </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Economics-Books/blob/master/ecp(58).pdf" style="text-decoration:none;">The ABCs of Political Economy: A Modern Approach </a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Medical-Books/blob/master/elm(58).pdf" style="text-decoration:none;">The ABCs of Political Economy: A Modern Approach </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Economics-Books/blob/master/ecp(59).pdf" style="text-decoration:none;">The Black Swan: The Impact of the Highly Improbable</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Medical-Books/blob/master/elm(59).pdf" style="text-decoration:none;">The Black Swan: The Impact of the Highly Improbable</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Economics-Books/blob/master/ecp(60).pdf" style="text-decoration:none;">The Business Environment </a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Medical-Books/blob/master/elm(60).pdf" style="text-decoration:none;">The Business Environment </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Economics-Books/blob/master/ecp(61).pdf" style="text-decoration:none;">The Economics of Growth </a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Medical-Books/blob/master/elm(61).pdf" style="text-decoration:none;">The Economics of Growth </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Economics-Books/blob/master/ecp(62).pdf" style="text-decoration:none;">The General Theory of Employment, Interest, and Money</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Medical-Books/blob/master/elm(62).pdf" style="text-decoration:none;">The General Theory of Employment, Interest, and Money</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Economics-Books/blob/master/ecp(63).pdf" style="text-decoration:none;">The Intelligent Investor: A Book of Practical Counsel  </a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Medical-Books/blob/master/elm(63).pdf" style="text-decoration:none;">Community Medicine Important MCQs </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Economics-Books/blob/master/ecp(64).pdf" style="text-decoration:none;">The Shock Doctrine: The Rise of Disaster Capitalism</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Medical-Books/blob/master/elm(64).pdf" style="text-decoration:none;">The Complete Home Guide to Herbs, Natural Healing, and Nutrition</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Economics-Books/blob/master/ecp(65).pdf" style="text-decoration:none;">The Theory of the Leisure Class</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Medical-Books/blob/master/elm(65).pdf" style="text-decoration:none;">Multiple Choice Questions in Medical Physiology</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Economics-Books/blob/master/ecp(66).pdf" style="text-decoration:none;">The Undercover Economist</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Medical-Books/blob/master/elm(66).pdf" style="text-decoration:none;">Being Mortal: Illness, Medicine and What Matters</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Economics-Books/blob/master/ecp(67).pdf" style="text-decoration:none;">The Big Short: Inside the doomsday machine</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Medical-Books/blob/master/elm(67).pdf" style="text-decoration:none;">MCQs in Tropical Medicine</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Economics-Books/blob/master/ecp(68).pdf" style="text-decoration:none;">The Worldly Philosophers: The Lives, Times And Ideas Of The Great Economic Thinkers</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Medical-Books/blob/master/elm(68).pdf" style="text-decoration:none;">MCQs in Pathology</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Economics-Books/blob/master/ecp(69).pdf" style="text-decoration:none;">The Mystery of Capital: Why Capitalism Triumphs in the West and Fails Everywhere Else </a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Medical-Books/blob/master/elm(69).pdf" style="text-decoration:none;">MCQs and EMQs in Surgery </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Economics-Books/blob/master/ecp(70).pdf" style="text-decoration:none;">The Thank You Economy</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Medical-Books/blob/master/elm(1).rar" style="text-decoration:none;">Color Atlas of Cytology, Histology and Microscopic Anatomy</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Economics-Books/blob/master/ecp(71).pdf" style="text-decoration:none;">Thinking, Fast and Slow</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Medical-Books/blob/master/elm(19).rar" style="text-decoration:none;">Textbook of Microbiology and Immunology</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Economics-Books/blob/master/ecp(72).pdf" style="text-decoration:none;">Why Nations Fail: The Origins of Power, Prosperity and Poverty</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Medical-Books/blob/master/elm(58).pdf" style="text-decoration:none;">Wilson and Gisvold's Textbook of Organic Medicinal and Pharmaceutical Chemistry</a></b></li>
-
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Medical-Books/blob/master/elm(70).pdf" style="text-decoration:none;">Physics of the Human Body</a></b></li>
-
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Medical-Books/blob/master/elm(71).pdf" style="text-decoration:none;">Harrison's Manual of Medicine</a></b></li>
-
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Medical-Books/blob/master/elm(72).pdf" style="text-decoration:none;">Cambridge Pocket Clinician - Internal Medicine</a></b></li>
-
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Medical-Books/blob/master/elm(73).pdf" style="text-decoration:none;">Pocket Medicine</a></b></li>
-
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Medical-Books/blob/master/elm(74).pdf" style="text-decoration:none;">The Survival Medicine Handbook </a></b></li>
-
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Medical-Books/blob/master/elm(75).pdf" style="text-decoration:none;">What Your Doctor Doesn't Know About Nutritional Medicine</a></b></li>
-
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Medical-Books/blob/master/elm(76).pdf" style="text-decoration:none;">Approach to Internal Medicine: Resource Book for Clinical Practice </a></b></li>
-
-
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Medical-Books/blob/master/elm(77).pdf" style="text-decoration:none;">Decision Making in Medicine: An Algorithmic Approach</a></b></li>
-
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Medical-Books/blob/master/elm(78).pdf" style="text-decoration:none;">Infectious Diseases in Critical Care Medicine</a></b></li>
-
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Medical-Books/blob/master/elm(79).pdf" style="text-decoration:none;">Principles and Practice of Clinical Trial Medicine</a></b></li>
-
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Medical-Books/blob/master/elm(80).pdf" style="text-decoration:none;">Burket's Oral Medicine</a></b></li>
-
-
-
-
-
-
-
-
-
-
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Economics-Books/blob/master/ecp(73).pdf" style="text-decoration:none;">Introductory Econometrics: A Modern. Approach</a></b></li>
 
 
 </ul>
-             
