@@ -1,3 +1,225 @@
+<table class="vertical-navbox nowraplinks plainlist">
+<tbody>
+<tr>
+<th class="navbox-title"><a class="mw-selflink selflink">Economics</a></th>
+</tr>
+<tr>
+<td class="navbox-abovebelow">
+<div class="hlist">
+<ul>
+<li><a title="Index of economics articles" href="https://en.wikipedia.org/wiki/Index_of_economics_articles">Index</a></li>
+<li><a title="Outline of economics" href="https://en.wikipedia.org/wiki/Outline_of_economics">Outline</a></li>
+<li><a title="Category:Economics" href="https://en.wikipedia.org/wiki/Category:Economics">Category</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td>
+<div id="NavFrame1" class="NavFrame collapsed">
+<div class="NavHead">
+<div class="hlist hlist-separated nowrap">
+<p>History - Branches - Classification</p>
+</div>
+</div>
+<div class="NavContent navbox-abovebelow">
+<div class="hlist">
+<ul>
+<li><a title="History of economic thought" href="https://en.wikipedia.org/wiki/History_of_economic_thought">History of economics</a></li>
+<li><a title="Schools of economic thought" href="https://en.wikipedia.org/wiki/Schools_of_economic_thought">Schools of economics</a></li>
+</ul>
+<dl>
+<dd></dd>
+</dl>
+<ul>
+<li><a title="Mainstream economics" href="https://en.wikipedia.org/wiki/Mainstream_economics">Mainstream economics</a></li>
+<li><a title="Heterodox economics" href="https://en.wikipedia.org/wiki/Heterodox_economics">Heterodox economics</a></li>
+<li><a title="Economic methodology" href="https://en.wikipedia.org/wiki/Economic_methodology">Economic methodology</a></li>
+</ul>
+<dl>
+<dd></dd>
+</dl>
+<ul>
+<li><a class="mw-redirect" title="Economic theory" href="https://en.wikipedia.org/wiki/Economic_theory">Economic theory</a></li>
+<li><a title="Political economy" href="https://en.wikipedia.org/wiki/Political_economy">Political economy</a></li>
+</ul>
+<dl>
+<dd></dd>
+</dl>
+<ul>
+<li><a title="Microeconomics" href="https://en.wikipedia.org/wiki/Microeconomics">Microeconomics</a></li>
+<li><a title="Macroeconomics" href="https://en.wikipedia.org/wiki/Macroeconomics">Macroeconomics</a></li>
+</ul>
+<dl>
+<dd></dd>
+</dl>
+<ul>
+<li><a title="International economics" href="https://en.wikipedia.org/wiki/International_economics">International economics</a></li>
+</ul>
+<dl>
+<dd></dd>
+</dl>
+<ul>
+<li><a title="Applied economics" href="https://en.wikipedia.org/wiki/Applied_economics">Applied economics</a></li>
+</ul>
+<dl>
+<dd></dd>
+</dl>
+<ul>
+<li><a title="Mathematical economics" href="https://en.wikipedia.org/wiki/Mathematical_economics">Mathematical economics</a></li>
+<li><a title="Econometrics" href="https://en.wikipedia.org/wiki/Econometrics">Econometrics</a></li>
+</ul>
+</div>
+<ul>
+<li><a title="JEL classification codes" href="https://en.wikipedia.org/wiki/JEL_classification_codes">JEL classification codes</a></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td>
+<div id="NavFrame2" class="NavFrame collapsed">
+<div class="NavHead">
+<div class="hlist hlist-separated nowrap">
+<p>Concepts - Theory- Techniques</p>
+</div>
+</div>
+<div class="NavContent navbox-abovebelow">
+<div class="hlist">
+<ul>
+<li><a title="Economic system" href="https://en.wikipedia.org/wiki/Economic_system">Economic systems</a></li>
+<li><a title="Economic growth" href="https://en.wikipedia.org/wiki/Economic_growth">Economic growth</a></li>
+<li><a title="Market (economics)" href="https://en.wikipedia.org/wiki/Market_(economics)">Market</a></li>
+<li><a title="National accounts" href="https://en.wikipedia.org/wiki/National_accounts">National accounting</a></li>
+<li><a title="Experimental economics" href="https://en.wikipedia.org/wiki/Experimental_economics">Experimental economics</a></li>
+<li><a title="Computational economics" href="https://en.wikipedia.org/wiki/Computational_economics">Computational economics</a></li>
+</ul>
+<dl>
+<dd></dd>
+</dl>
+<ul>
+<li><a title="Game theory" href="https://en.wikipedia.org/wiki/Game_theory">Game theory</a></li>
+<li><a title="Operations research" href="https://en.wikipedia.org/wiki/Operations_research">Operations research</a></li>
+</ul>
+</div>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td>
+<div id="NavFrame3" class="NavFrame collapsed">
+<div class="NavHead">By application</div>
+<div class="NavContent navbox-abovebelow">
+<div class="hlist">
+<ul>
+<li><a title="Agricultural economics" href="https://en.wikipedia.org/wiki/Agricultural_economics">Agricultural</a></li>
+<li><a title="Behavioral economics" href="https://en.wikipedia.org/wiki/Behavioral_economics">Behavioral</a></li>
+<li><a title="Business economics" href="https://en.wikipedia.org/wiki/Business_economics">Business</a></li>
+<li><a title="Cultural economics" href="https://en.wikipedia.org/wiki/Cultural_economics">Cultural</a></li>
+<li><a title="Demographic economics" href="https://en.wikipedia.org/wiki/Demographic_economics">Demographic</a></li>
+<li><a title="Development economics" href="https://en.wikipedia.org/wiki/Development_economics">Development</a></li>
+<li><a title="Economics of digitization" href="https://en.wikipedia.org/wiki/Economics_of_digitization">Digitization</a></li>
+<li><a title="Ecological economics" href="https://en.wikipedia.org/wiki/Ecological_economics">Ecological</a></li>
+<li><a title="Education economics" href="https://en.wikipedia.org/wiki/Education_economics">Education</a></li>
+<li><a title="Engineering economics" href="https://en.wikipedia.org/wiki/Engineering_economics">Engineering</a></li>
+<li><a title="Environmental economics" href="https://en.wikipedia.org/wiki/Environmental_economics">Environmental</a></li>
+<li><a title="Evolutionary economics" href="https://en.wikipedia.org/wiki/Evolutionary_economics">Evolutionary</a></li>
+<li><a title="Expeditionary economics" href="https://en.wikipedia.org/wiki/Expeditionary_economics">Expeditionary</a></li>
+<li><a title="Economic geography" href="https://en.wikipedia.org/wiki/Economic_geography">Economic geography</a></li>
+<li><a title="Financial economics" href="https://en.wikipedia.org/wiki/Financial_economics">Financial</a></li>
+<li><a title="Health economics" href="https://en.wikipedia.org/wiki/Health_economics">Health</a></li>
+<li><a title="Economic history" href="https://en.wikipedia.org/wiki/Economic_history">Economic history</a></li>
+<li><a title="Industrial organization" href="https://en.wikipedia.org/wiki/Industrial_organization">Industrial organization</a></li>
+<li><a title="Information economics" href="https://en.wikipedia.org/wiki/Information_economics">Information</a></li>
+<li><a title="Institutional economics" href="https://en.wikipedia.org/wiki/Institutional_economics">Institutional</a></li>
+<li><a title="Knowledge economy" href="https://en.wikipedia.org/wiki/Knowledge_economy">Knowledge</a></li>
+<li><a title="Labour economics" href="https://en.wikipedia.org/wiki/Labour_economics">Labour</a></li>
+<li><a title="Law and economics" href="https://en.wikipedia.org/wiki/Law_and_economics">Law</a></li>
+<li><a title="Managerial economics" href="https://en.wikipedia.org/wiki/Managerial_economics">Managerial</a></li>
+<li><a title="Monetary economics" href="https://en.wikipedia.org/wiki/Monetary_economics">Monetary</a></li>
+<li><a title="Natural resource economics" href="https://en.wikipedia.org/wiki/Natural_resource_economics">Natural resource</a></li>
+<li><a title="Organizational economics" href="https://en.wikipedia.org/wiki/Organizational_economics">Organizational</a></li>
+<li><a title="Personnel economics" href="https://en.wikipedia.org/wiki/Personnel_economics">Personnel</a></li>
+<li><a title="Economic planning" href="https://en.wikipedia.org/wiki/Economic_planning">Economic planning</a></li>
+<li><a title="Economic policy" href="https://en.wikipedia.org/wiki/Economic_policy">Economic policy</a></li>
+<li><a title="Public economics" href="https://en.wikipedia.org/wiki/Public_economics">Public economics</a></li>
+<li><a title="Public choice" href="https://en.wikipedia.org/wiki/Public_choice">Public</a>&nbsp;/&nbsp;<a title="Social choice theory" href="https://en.wikipedia.org/wiki/Social_choice_theory">Social</a>&nbsp;choice</li>
+<li><a title="Regional economics" href="https://en.wikipedia.org/wiki/Regional_economics">Regional</a></li>
+<li><a title="Rural economics" href="https://en.wikipedia.org/wiki/Rural_economics">Rural</a></li>
+<li><a title="Service economy" href="https://en.wikipedia.org/wiki/Service_economy">Service</a></li>
+<li><a title="Socioeconomics" href="https://en.wikipedia.org/wiki/Socioeconomics">Socioeconomics</a></li>
+<li><a title="Economic sociology" href="https://en.wikipedia.org/wiki/Economic_sociology">Economic sociology</a></li>
+<li><a title="Economic statistics" href="https://en.wikipedia.org/wiki/Economic_statistics">Economic statistics</a></li>
+<li><a title="Urban economics" href="https://en.wikipedia.org/wiki/Urban_economics">Urban</a></li>
+<li><a title="Welfare" href="https://en.wikipedia.org/wiki/Welfare">Welfare</a></li>
+<li><a title="Welfare economics" href="https://en.wikipedia.org/wiki/Welfare_economics">Welfare economics</a></li>
+</ul>
+</div>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td>
+<div id="NavFrame4" class="NavFrame collapsed">
+<div class="NavHead">Notable&nbsp;<a title="Economist" href="https://en.wikipedia.org/wiki/Economist">economists</a></div>
+<div class="NavContent navbox-abovebelow">
+<div class="hlist">
+<ul>
+<li><a title="Fran&ccedil;ois Quesnay" href="https://en.wikipedia.org/wiki/Fran%C3%A7ois_Quesnay">Fran&ccedil;ois Quesnay</a></li>
+<li><a title="Adam Smith" href="https://en.wikipedia.org/wiki/Adam_Smith">Adam Smith</a></li>
+<li><a title="David Ricardo" href="https://en.wikipedia.org/wiki/David_Ricardo">David Ricardo</a></li>
+<li><a title="Thomas Robert Malthus" href="https://en.wikipedia.org/wiki/Thomas_Robert_Malthus">Thomas Robert Malthus</a></li>
+<li><a title="John Stuart Mill" href="https://en.wikipedia.org/wiki/John_Stuart_Mill">John Stuart Mill</a></li>
+<li><a title="Karl Marx" href="https://en.wikipedia.org/wiki/Karl_Marx">Karl Marx</a></li>
+<li><a title="William Stanley Jevons" href="https://en.wikipedia.org/wiki/William_Stanley_Jevons">William Stanley Jevons</a></li>
+<li><a title="L&eacute;on Walras" href="https://en.wikipedia.org/wiki/L%C3%A9on_Walras">L&eacute;on Walras</a></li>
+<li><a title="Alfred Marshall" href="https://en.wikipedia.org/wiki/Alfred_Marshall">Alfred Marshall</a></li>
+<li><a title="Irving Fisher" href="https://en.wikipedia.org/wiki/Irving_Fisher">Irving Fisher</a></li>
+<li><a title="John Maynard Keynes" href="https://en.wikipedia.org/wiki/John_Maynard_Keynes">John Maynard Keynes</a></li>
+<li><a title="Arthur Cecil Pigou" href="https://en.wikipedia.org/wiki/Arthur_Cecil_Pigou">Arthur Cecil Pigou</a></li>
+<li><a title="John Hicks" href="https://en.wikipedia.org/wiki/John_Hicks">John Hicks</a></li>
+<li><a title="Wassily Leontief" href="https://en.wikipedia.org/wiki/Wassily_Leontief">Wassily Leontief</a></li>
+<li><a title="Paul Samuelson" href="https://en.wikipedia.org/wiki/Paul_Samuelson">Paul Samuelson</a></li>
+<li><em><a title="Category:Economists" href="https://en.wikipedia.org/wiki/Category:Economists">more</a></em></li>
+</ul>
+</div>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td>
+<div id="NavFrame5" class="NavFrame collapsed">
+<div class="NavHead"><a title="Category:Economics lists" href="https://en.wikipedia.org/wiki/Category:Economics_lists">Lists</a></div>
+<div class="NavContent navbox-abovebelow">
+<ul>
+<li><a title="List of economists" href="https://en.wikipedia.org/wiki/List_of_economists">Economists</a></li>
+<li><a title="List of important publications in economics" href="https://en.wikipedia.org/wiki/List_of_important_publications_in_economics">Publications</a>&nbsp;(<a title="List of economics journals" href="https://en.wikipedia.org/wiki/List_of_economics_journals">journals</a>)</li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td>
+<div id="NavFrame6" class="NavFrame collapsed">
+<div class="NavHead">Glossary</div>
+<div class="NavContent navbox-abovebelow">
+<ul>
+<li><a title="Glossary of economics" href="https://en.wikipedia.org/wiki/Glossary_of_economics">Glossary of economics</a></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</br>
+
+
 <p><strong>Economics</strong>&nbsp;(<span class="rt-commentedText nowrap"><span class="IPA nopopups noexcerpt"><a title="Help:IPA/English" href="https://en.wikipedia.org/wiki/Help:IPA/English">/<span title="/ɛ/: 'e' in 'dress'">ɛ</span><span title="'k' in 'kind'">k</span><span title="/ə/: 'a' in 'about'">ə</span><span title="/ˈ/: primary stress follows">ˈ</span><span title="'n' in 'nigh'">n</span><span title="/ɒ/: 'o' in 'body'">ɒ</span><span title="'m' in 'my'">m</span><span title="/ɪ/: 'i' in 'kit'">ɪ</span><span title="'k' in 'kind'">k</span><span title="'s' in 'sigh'">s</span>,<span class="wrap">&nbsp;</span><span title="/iː/: 'ee' in 'fleece'">iː</span><span title="'k' in 'kind'">k</span><span title="/ə/: 'a' in 'about'">ə</span>-/</a></span></span>) is the&nbsp;<a title="Social science" href="https://en.wikipedia.org/wiki/Social_science">social science</a>&nbsp;that studies the&nbsp;<a title="Production (economics)" href="https://en.wikipedia.org/wiki/Production_(economics)">production</a>,&nbsp;<a title="Distribution (economics)" href="https://en.wikipedia.org/wiki/Distribution_(economics)">distribution</a>, and&nbsp;<a title="Consumption (economics)" href="https://en.wikipedia.org/wiki/Consumption_(economics)">consumption</a>&nbsp;of&nbsp;<a title="Goods and services" href="https://en.wikipedia.org/wiki/Goods_and_services">goods and services</a>.</p>
 <p>Economics focuses on the behaviour and interactions of&nbsp;<a title="Agent (economics)" href="https://en.wikipedia.org/wiki/Agent_(economics)">economic agents</a>&nbsp;and how&nbsp;<a title="Economy" href="https://en.wikipedia.org/wiki/Economy">economies</a>&nbsp;work.&nbsp;<a title="Microeconomics" href="https://en.wikipedia.org/wiki/Microeconomics">Microeconomics</a>&nbsp;analyzes basic elements in the economy, including individual agents and&nbsp;<a title="Market (economics)" href="https://en.wikipedia.org/wiki/Market_(economics)">markets</a>, their interactions, and the outcomes of interactions. Individual agents may include, for example, households, firms, buyers, and sellers.&nbsp;<a title="Macroeconomics" href="https://en.wikipedia.org/wiki/Macroeconomics">Macroeconomics</a>&nbsp;analyzes the economy as a system where production, consumption, saving, and investment interact, and factors affecting it: employment of the resources of labour, capital, and land, currency&nbsp;<a title="Inflation" href="https://en.wikipedia.org/wiki/Inflation">inflation</a>,&nbsp;<a title="Economic growth" href="https://en.wikipedia.org/wiki/Economic_growth">economic growth</a>, and public policies that have impact on&nbsp;<a title="Glossary of economics" href="https://en.wikipedia.org/wiki/Glossary_of_economics">these elements</a>.</p>
 <p>Other broad distinctions within economics include those between&nbsp;<a title="Positive economics" href="https://en.wikipedia.org/wiki/Positive_economics">positive economics</a>, describing "what is", and&nbsp;<a title="Normative economics" href="https://en.wikipedia.org/wiki/Normative_economics">normative economics</a>, advocating "what ought to be"; between economic theory and&nbsp;<a title="Applied economics" href="https://en.wikipedia.org/wiki/Applied_economics">applied economics</a>; between&nbsp;<a title="Rational choice theory" href="https://en.wikipedia.org/wiki/Rational_choice_theory">rational</a>&nbsp;and&nbsp;<a class="mw-redirect" title="Behavioural economics" href="https://en.wikipedia.org/wiki/Behavioural_economics">behavioural economics</a>; and between&nbsp;<a title="Mainstream economics" href="https://en.wikipedia.org/wiki/Mainstream_economics">mainstream economics</a>&nbsp;and&nbsp;<a title="Heterodox economics" href="https://en.wikipedia.org/wiki/Heterodox_economics">heterodox economics</a>.</p>
